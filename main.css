@@ -50,10 +50,12 @@ li {
 }
 
 .death-grips {
+    width: 80%;
     border-radius: 50px;
 }
 
 .Mc_Ride {
+    width: 100%;
     border-radius: 50px;
 }
 
